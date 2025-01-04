@@ -1,0 +1,1 @@
+The first step is to design a page, that allows the user to enter their user name, for requesting, the reset of the password. Add a webform , with name "ResetPassword. aspx" to the "Registration" folder.
